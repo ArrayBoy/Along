@@ -1,3 +1,3 @@
-function(){
-	console.log('just so so')
-}     
+function test(){
+	console.log('just so so');
+}
